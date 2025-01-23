@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AnimeDB</string>
+    <string name="title_activity_anime_list">AnimeListActivity</string>
+    <string name="title_activity_anime_detail">AnimeDetailActivity</string>
 </resources>
